@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<iostream>
-//sirve para encontrar numeros primos en un rango dado
 
 using namespace std;
 
